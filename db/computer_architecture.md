@@ -28,8 +28,6 @@
 - [Basic Computer Architecture](https://cse.unl.edu/~witty/class/embedded/material/note/architecture.pdf)
 - [Computer Organization and Architecture, Designing for Perfomance](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Architecture%2010th%20-%20William%20Stallings.pdf)
 - [Principles of Computer Architecture](https://theswissbay.ch/pdf/Gentoomen%20Library/Computer%20Architecture/Principles%20of%20Computer%20Architecture%20-%201999.pdf)
-- [Computer Architecture I](http://www.it.uu.se/edu/course/homepage/dark/ht11/dark1-1-welcome.pdf)
-- [University of Oslo](https://www.uio.no/studier/emner/matnat/ifi/INF2270/v14/dokumenter/kompendium-inf2270.pdf)
 - [21 Century Comp Architecture](https://cra.org/ccc/wp-content/uploads/sites/2/2015/05/21stcenturyarchitecturewhitepaper.pdf)
 - [ECE C61](http://www.ece.northwestern.edu/~kcoloma/ece361/lectures/Lec03-isa.pdf)
 - [Von Neumann Computer Model](http://www.c-jump.com/CIS77/CPU/VonNeumann/lecture.html)
