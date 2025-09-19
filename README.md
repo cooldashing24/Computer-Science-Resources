@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-	A list of resources in different fields of <b>Computer Science</b> (in multiple languages).
+    A collection of learning materials across multiple fields of <b>Computer Science</b>.
 </p>
 
 ## Content
